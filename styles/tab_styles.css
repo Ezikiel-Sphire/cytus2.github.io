@@ -4,7 +4,7 @@ body{
 	font-family:'Arial';
 }
 .nav{
-	background-color:#595959;
+	background-color:#3d9d59;
 	color:#fffffff;
 	list-style:none;
 }
@@ -18,5 +18,5 @@ body{
 	
 }
 .nav > li > a:hover{
-	color:#c1c1c1;
+	color:152b30;
 }
